@@ -88,3 +88,9 @@ The PDF contains summary statistics, visual charts, tables, and conclusions. Aft
 
 PDF Report Generated Successfully!
 
+<img width="792" height="490" alt="Image" src="https://github.com/user-attachments/assets/5580cdb6-46b4-47ac-b598-4d9e1253ff35" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/35086ed9-b513-44d4-a662-0ea2f5525607" />
+
+[Global_AQI_Analysis_Report.pdf](https://github.com/user-attachments/files/25579863/Global_AQI_Analysis_Report.pdf)
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/3b03bfc5-d808-403e-843b-7e11fdb77628" />
+
